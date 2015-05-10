@@ -23,11 +23,11 @@ You should now have an i-beam that is more easy to see on a dark or black backgr
 
 Before:
 
-![Original Xcode Ibeam](https://raw.github.com/egold/better-xcode-ibeam-cursor/master/cursor-example-before.png "Original Xcode Ibeam") 
+![Original Xcode Ibeam](https://raw.github.com/shaps80/better-xcode-ibeam-cursor/master/cursor-example-before.png "Original Xcode Ibeam") 
 
 After:
 
-![Improved Xcode Ibeam](https://raw.github.com/egold/better-xcode-ibeam-cursor/master/cursor-example-after.png "Replacement Xcode Ibeam")
+![Improved Xcode Ibeam](https://raw.github.com/shaps80/better-xcode-ibeam-cursor/master/cursor-example-after.png "Replacement Xcode Ibeam")
 
 ### Background
 
