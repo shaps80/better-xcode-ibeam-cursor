@@ -18,6 +18,11 @@ curl -L https://raw.githubusercontent.com/shaps80/better-xcode-ibeam-cursor/mast
 3. Copy (`sudo cp`) the tiff to `/Applications/Xcode.app/Contents/SharedFrameworks/DVTKit.framework/Resources/DVTIbeamCursor.tiff`
 4. Restart Xcode
 
+If you also want to update Terminal.app
+
+1. Create a backup of `/Applications/Utilities/Terminal.app/Contents/Resources/ShadowedIBeam.tiff`
+2. Copy (`sudo cp`) the tiff to `/Applications/Utilities/Terminal.app/Contents/Resources/ShadowedIBeam.tiff`
+3. Run this command in Terminal: `defaults write com.apple.Terminal UseCustomIBeamCursor -bool YES`
 
 You should now have an i-beam that is more easy to see on a dark or black background.
 
